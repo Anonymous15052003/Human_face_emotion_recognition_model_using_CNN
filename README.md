@@ -41,6 +41,7 @@ pip install -r requirements.txt
 ## Results
 The proposed model generates the output with 98% accuracy with input layers of shape [224, 224, 3] using the GlobalMaxPooling2D for pooling and softmax for the output layers and cross entropy is calculated using the Adam optimizer.
 
+![screenshot](Labels_for_the_processed_model.png)
 Our model demonstrated accurate output generation, correctly identifying happiness. Subsequently, during testing with an image of an angry person, our model continued to exhibit precision by accurately predicting the emotion as 'angry'.
 
 This indicates the robustness and reliability of our model in accurately classifying a range of emotions, showcasing its effectiveness across diverse scenarios.
