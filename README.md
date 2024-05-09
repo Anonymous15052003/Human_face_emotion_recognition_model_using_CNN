@@ -22,6 +22,8 @@ The core of our model consists of the following components:
 - **Fully Connected Layers**: For emotion classification.
 - **Softmax Layer**: For outputting the emotion probabilities.
 
+![screenshot](Model builiding for the processed model.jpg)
+
 The model is trained on a comprehensive dataset containing a wide range of facial expressions. Data augmentation techniques, such as rotation, flipping, and cropping, are applied to increase the dataset's diversity and reduce overfitting.
 
 ## Setup and Installation
