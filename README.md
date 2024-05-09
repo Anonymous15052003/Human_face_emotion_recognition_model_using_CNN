@@ -44,7 +44,7 @@ The proposed model generates the output with 98% accuracy with input layers of s
 ![screenshot](Labels_for_the_processed_model.png)
 
 ![screenshot](Model_accuracy_generated_by_the_processed_model.png)
-![screenshot]()
+![screenshot](Model_loss_generated_by_the_processed_model.png)
 ![screenshot]()
 ![screenshot]()
 
