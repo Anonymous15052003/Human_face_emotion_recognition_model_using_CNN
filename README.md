@@ -45,7 +45,7 @@ The proposed model generates the output with 98% accuracy with input layers of s
 
 ![screenshot](Model_accuracy_generated_by_the_processed_model.png)
 ![screenshot](Model_loss_generated_by_the_processed_model.png)
-![screenshot]()
+![screenshot](Output_generated_by_the_processed_model.png)
 ![screenshot]()
 
 Our model demonstrated accurate output generation, correctly identifying happiness. Subsequently, during testing with an image of an angry person, our model continued to exhibit precision by accurately predicting the emotion as 'angry'.
